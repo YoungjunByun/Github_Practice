@@ -27,3 +27,5 @@ And now I`m practicing how to write down README file with mark down language
 [SDV 나무위키](https://namu.wiki/w/SDV(%EC%9E%90%EB%8F%99%EC%B0%A8))
 
 [SDV 나무위키](https://namu.wiki/w/SDV(%EC%9E%90%EB%8F%99%EC%B0%A8), "클릭하면 나무위키 페이지로 이동합니다")
+
+![my photo](./KakaoTalk_20230110_164903855.jpg)
